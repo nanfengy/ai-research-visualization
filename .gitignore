@@ -1,0 +1,6 @@
+*.tmp
+~$*.pptx
+review-*/
+contact-sheets/
+original/
+xiaohongshu/images/幻灯片*.PNG
