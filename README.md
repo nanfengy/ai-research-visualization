@@ -8,11 +8,6 @@
 
 ![课程预览](preview/overview.jpg)
 
-## 小红书图文版
-
-![7 页小红书配图总览](xiaohongshu/editorial-overview.jpg)
-
-配图采用 `3:4` 竖版比例（`1200 × 1600`），包括编辑风封面、3 页内容概览，以及 3 页真实 PPT 的“完整原页 + 关键区域放大”展示。
 
 ## 内容结构
 
@@ -39,12 +34,7 @@
 | --- | --- |
 | `slides/AI科研作图.pdf` | 推荐在线阅读与快速预览 |
 | `slides/AI科研作图.pptx` | 可编辑的轻量公开版 |
-| `xiaohongshu/post.md` | 小红书首帖文案 |
-| `xiaohongshu/editorial/` | 7 张适合手机阅读的小红书配图 |
-| `xiaohongshu/AI科研作图-小红书9页.pptx` | 旧版 9 页轮播归档 |
 | `PUBLICATION_CHECKLIST.md` | 发布前版权、隐私与准确性检查 |
-
-公开版已移除演示稿中的个人姓名、导师信息、校徽、批注、个人文档元数据和内嵌视频。视频相关页面保留内容框架与静态示意。
 
 ## 一套可复用的科研作图工作流
 
