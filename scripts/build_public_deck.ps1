@@ -1,7 +1,7 @@
 param(
     [string]$Source = (Join-Path $PSScriptRoot "..\..\2026-04-28-汇报.pptx"),
-    [string]$Output = (Join-Path $PSScriptRoot "..\slides\AI科研作图-公开版.pptx"),
-    [string]$PdfOutput = (Join-Path $PSScriptRoot "..\slides\AI科研作图-公开版.pdf")
+    [string]$Output = (Join-Path $PSScriptRoot "..\slides\AI科研作图.pptx"),
+    [string]$PdfOutput = (Join-Path $PSScriptRoot "..\slides\AI科研作图.pdf")
 )
 
 $ErrorActionPreference = "Stop"

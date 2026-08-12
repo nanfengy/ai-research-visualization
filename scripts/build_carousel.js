@@ -276,7 +276,7 @@ function addArrow(slide, x, y, w = 0.35) {
   addPill(slide, "PPT", 0.62, 3.55, 1.05, C.blue);
   addPill(slide, "PDF", 1.82, 3.55, 1.05, C.cyan);
   addPill(slide, "工作流", 3.02, 3.55, 1.35, C.coral);
-  slide.addText("博士生整理的 74 页科研作图分享", {
+  slide.addText("博士生整理的 73 页科研作图分享", {
     x: 0.62,
     y: 4.28,
     w: 6.2,
@@ -630,7 +630,7 @@ function addArrow(slide, x, y, w = 0.35) {
   addPageBase(slide, 9, "资料说明");
   addTitle(slide, "这次整理，我准备放出这些内容", "公开版已经做了脱敏和轻量化处理。");
   const list = [
-    ["74 页", "公开版 PDF", C.blue],
+    ["73 页", "公开版 PDF", C.blue],
     ["可编辑", "轻量版 PPT", C.cyan],
     ["可复用", "科研作图工作流", C.green],
     ["可执行", "质量检查框架", C.coral],
@@ -672,10 +672,10 @@ function addArrow(slide, x, y, w = 0.35) {
     color: C.navy,
     margin: 0,
   });
-  slide.addText("GitHub：发布时补充", {
+  slide.addText("GitHub：github.com/nanfengy/ai-research-visualization", {
     x: 0.62,
     y: 9.0,
-    w: 3.2,
+    w: 6.2,
     h: 0.26,
     fontFace: font,
     fontSize: 9.5,
